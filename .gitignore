@@ -1,0 +1,10 @@
+# WordPress plugin specific
+instagram-cache/
+*.json
+
+# General
+.DS_Store
+Thumbs.db
+
+#PHPStorm
+.idea

@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TWP - InstaFlow Connect 1.9\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: instaflow-connect\n"
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcode Guide"
+msgstr ""
+
+msgid "Shortcode Usage Guide"
+msgstr ""
+
+msgid "Use the following shortcode to display your Instagram grid on any page or post."
+msgstr ""
+
+msgid "Basic Shortcode"
+msgstr ""
+
+msgid "Displays the latest 9 posts (videos/reels excluded by default)."
+msgstr ""
+
+msgid "Available Parameters"
+msgstr ""
+
+msgid "Parameter"
+msgstr ""
+
+msgid "Default Value"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "The number of posts to display in the grid."
+msgstr ""
+
+msgid "Set <code>yes</code> to include Videos and Reels in the grid."
+msgstr ""
+
+msgid "Advanced Examples"
+msgstr ""
+
+msgid "Show 12 posts including videos:"
+msgstr ""
+
+msgid "Show only 3 posts:"
+msgstr ""
+
+msgid "Power-user mode"
+msgstr ""
+
+msgid "Need the raw data? Fetch your media as raw JSON, from PHP or via the REST API."
+msgstr ""
+
+msgid "PHP function"
+msgstr ""
+
+msgid "Returns a JSON string of the media."
+msgstr ""
+
+msgid "REST endpoint"
+msgstr ""
+
+msgid "Public read-only endpoint that returns the same media as JSON."
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Number of posts to return (default: 9)."
+msgstr ""
+
+msgid "Set to true/yes to include videos and reels (default: false)."
+msgstr ""
+
+msgid "InstaFlow Configuration"
+msgstr ""
+
+msgid "Account type"
+msgstr ""
+
+msgid "App ID"
+msgstr ""
+
+msgid "App Secret"
+msgstr ""
+
+msgid "Webhook Verify Token"
+msgstr ""
+
+msgid "Access Token"
+msgstr ""
+
+msgid "Instagram Username"
+msgstr ""
+
+msgid "Enter the <strong>App ID</strong> found in your Facebook App basic settings."
+msgstr ""
+
+msgid "Enter the <strong>Instagram App ID</strong> found under <strong>Instagram > API setup with Instagram login</strong> (NOT the generic Facebook App ID)."
+msgstr ""
+
+msgid "Enter the <strong>App Secret</strong> found in your Facebook App basic settings."
+msgstr ""
+
+msgid "Enter the <strong>Instagram App Secret</strong> found under <strong>Instagram > API setup with Instagram login</strong>."
+msgstr ""
+
+msgid "Business / Facebook Login (Instagram Graph API)"
+msgstr ""
+
+msgid "Regular account (Instagram API with Instagram Login)"
+msgstr ""
+
+msgid "Choose the integration type: Business uses Facebook Login and supports Webhooks; \"Regular account\" uses the Instagram API with Instagram Login (which replaced the deprecated Basic Display API)."
+msgstr ""
+
+msgid "Enter a string of your choice to use as the Verify Token in the Facebook Webhook settings."
+msgstr ""
+
+msgid "Enter here the token generated through Facebook for Developers (User Token)."
+msgstr ""
+
+msgid "Enter the Instagram username to display."
+msgstr ""
+
+msgid "Connection status"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "as %s"
+msgstr ""
+
+msgid "Token updated on %s."
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+msgid "use the button below to authorize the account."
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Login with Facebook/Instagram (Business)"
+msgstr ""
+
+msgid "Use Facebook Login to authorize the app to access Business data. Make sure the URL <code>%s</code> is listed among the Valid OAuth Redirect URIs in Facebook Login."
+msgstr ""
+
+msgid "Login with Instagram"
+msgstr ""
+
+msgid "Authorize via Instagram Login. Enter exactly this URL as the <strong>OAuth Redirect URI</strong> under <strong>Instagram > API setup with Instagram login</strong>: <code>%s</code> (without query parameters, because Instagram strips them)."
+msgstr ""
+
+msgid "Webhook Configuration"
+msgstr ""
+
+msgid "Callback URL:"
+msgstr ""
+
+msgid "Verify Token:"
+msgstr ""
+
+msgid "Copy this data into the Webhook settings of your App on Facebook for Developers for the <strong>Instagram</strong> product. When Meta asks you to verify the URL, make sure you have saved the plugin settings with the same Verify Token."
+msgstr ""
+
+msgid "Error while exchanging the code: %s"
+msgstr ""
+
+msgid "Token generated successfully!"
+msgstr ""
+
+msgid "Short-lived token generated (long-lived exchange failed)."
+msgstr ""
+
+msgid "Instagram error: %s"
+msgstr ""
+
+msgid "Unexpected response from Instagram while exchanging the code."
+msgstr ""
+
+msgid "No posts to show."
+msgstr ""
+
+msgid "InstaFlow Connect - Token updated"
+msgstr ""
+
+msgid "Timestamp: %s"
+msgstr ""
+
